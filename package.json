@@ -1,5 +1,5 @@
 {
-  "name": "redux-toolkit-crash-course",
+  "name": "redux-toolkit",
   "private": true,
   "scripts": {
     "dev": "next dev",
